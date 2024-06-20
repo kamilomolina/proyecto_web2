@@ -24,6 +24,7 @@ header {
     margin-right: 20px; /* Espacio entre el logo y el título */
 }
 
+
 #pokedex {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -35,7 +36,7 @@ header {
     background-color: white;
     border: 1px solid #ddd;
     border-radius: 8px;
-    padding: 1em;
+    padding: 0em;
     text-align: center;
     cursor: pointer;
     position: relative;
